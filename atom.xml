@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-09-20T06:24:09.826Z</updated>
+  <updated>2021-10-23T08:43:53.791Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Typora 入门使用</title>
+    <link href="http://example.com/2021/10/23/Typora-%E5%85%A5%E9%97%A8%E4%BD%BF%E7%94%A8/"/>
+    <id>http://example.com/2021/10/23/Typora-%E5%85%A5%E9%97%A8%E4%BD%BF%E7%94%A8/</id>
+    <published>2021-10-23T06:09:16.000Z</published>
+    <updated>2021-10-23T08:43:53.791Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="typora" scheme="http://example.com/tags/typora/"/>
+    
+  </entry>
   
   <entry>
     <title>我的第一篇博客</title>
