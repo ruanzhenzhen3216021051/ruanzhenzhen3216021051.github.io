@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hexo</title>
-  <icon>http://example.com/icon.png</icon>
+  
   
   <link href="http://example.com/atom.xml" rel="self"/>
   
@@ -28,8 +28,7 @@
       
         
         
-    <summary type="html">&lt;p&gt;对于我这样一个电脑小白来说，从刚开始搭建博客到把博客搭建成功，真的道路坎坷，我甚至不知道要把这些东西都弄到D盘去。但好在有学长和老师的帮助，最后把博客搭起来了。&lt;/p&gt;
-&lt;p&gt;搭博客的过程中，我学到了很多东西，就比如不会的东西可以上网查，报错时甚至可以直接将错误百度一下，都</summary>
+    <summary type="html"></summary>
         
       
     
@@ -52,7 +51,7 @@
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html"></summary>
         
       
     
